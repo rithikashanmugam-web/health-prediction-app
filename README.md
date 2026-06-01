@@ -185,5 +185,5 @@ http://127.0.0.1:5000
 
 ## Author
 
-Rithika Shanmugam
-B.E. Artificial Intelligence and Machine Learning
+Rithika S
+B.Tech - Artificial Intelligence and Machine Learning
